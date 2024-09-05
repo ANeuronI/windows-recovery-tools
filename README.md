@@ -1,7 +1,6 @@
 # Windows Troubleshooting Tools
 
 Windows offers a range of built-in tools to help you tackle common issues without the need for a full factory reset. These utilities can fix system errors, restore corrupted files, and enhance performance, all while keeping your data intact.
-### my favourite are top 3.
 ### Here’s a handy guide to some key tools you can use to troubleshoot and resolve issues on your Windows PC:
 
 ## 1. **System File Checker (SFC)**
@@ -86,7 +85,7 @@ Windows offers a range of built-in tools to help you tackle common issues withou
      2. Check under **Windows Logs** > **System** or **Application** for critical errors or warnings.
 
 
-These tools are effective for resolving a variety of issues, from corrupted files to boot problems. If you need help with any of these utilities, feel free to ask!
+These tools are effective for resolving a variety of issues, from corrupted files to boot problems. my favourite are top 3.
 
 ---
 
