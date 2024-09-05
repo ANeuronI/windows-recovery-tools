@@ -21,7 +21,11 @@ Here’s a handy guide to some key tools you can use to troubleshoot and resolve
      2. Execute the following commands one by one:
         ```bash
         DISM /Online /Cleanup-Image /CheckHealth
+        ```
+         ```bash
         DISM /Online /Cleanup-Image /ScanHealth
+        ```
+          ```bash
         DISM /Online /Cleanup-Image /RestoreHealth
         ```
 
