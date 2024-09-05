@@ -85,8 +85,7 @@ Windows offers a range of built-in tools to help you tackle common issues withou
      2. Check under **Windows Logs** > **System** or **Application** for critical errors or warnings.
 
 
-These tools are effective for resolving a variety of issues, from corrupted files to boot problems. my favourite are top 3.
-
+These tools are effective for resolving a variety of issues, from corrupted files to boot problems. 
 ---
 
-Feel free to adjust any details as needed!
+my favourite are top 3 !
